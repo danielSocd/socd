@@ -1,3 +1,5 @@
-Meu primeiro projeto no Git
+Meu Segundo projeto no Git
+
 Criado o css
-Auterando a Master
+
+git diff
