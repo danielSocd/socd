@@ -3,4 +3,5 @@ Daniel da Silva Siqueira
   text-align: 10px;
   background-color: blue;
   display: flex;
+  justify-content: baseline;
 }
