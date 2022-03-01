@@ -1,4 +1,6 @@
 Daniel da Silva Siqueira
 .daniel {
-  text-aling: 10px;
+  text-align: 10px;
+  background-color: blue;
+  display: flex;
 }
